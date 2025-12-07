@@ -3,7 +3,7 @@
  Guide Officiel — WICE-CTF
 
 
- Bienvenue au WICE CTF, un challenge conçu pour vous entraîner, vous amuser et renforcer vos compétences en cybersécurité.
+Bienvenue au WICE CTF, un challenge conçu pour vous entraîner, vous amuser et renforcer vos compétences en cybersécurité.
 Ce guide vous présente les règles, bonnes pratiques, et pistes de révision pour vous aider à performer durant la compétition.
 Règles Générales
 
@@ -36,8 +36,8 @@ Comprendre les erreurs courantes (403, 404, 500…).
 🔹 Cryptographie (niveau débutant)
 Reconnaître les encodages classiques : Base64, Hex, ROT, Caesar, etc.
 Savoir utiliser des outils de décodage en ligne ou en local.
-🔹 Réseau
-Savoir lire des questions de culture réseau (IP, port, protocole).
+
+🔹 RéseauSavoir lire des questions de culture réseau (IP, port, protocole).
 Comprendre ce qu’est une adresse IP, un ping, un traceroute.
 Bases de la capture/lecture de paquets.
 
