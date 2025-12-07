@@ -85,4 +85,4 @@ Curiosité, réflexion, méthode.
 Un CTF n’est pas un examen : c’est un terrain de jeu pour progresser, tester vos limites et apprendre de nouvelles techniques en s’amusant.
 Le CTF est un environnement sécurisé. Appliquez vos compétences uniquement dans le cadre du concours.
 
-                                                BONNE CHANCE !!
+   BONNE CHANCE !!
